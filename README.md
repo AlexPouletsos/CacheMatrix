@@ -5,7 +5,6 @@
 
 ## Solves inverse of matrix and stores it
 
-
 > makeCacheMatrix <- function(x = matrix()) {
       i <- NULL
       set <- function(y){
